@@ -15,7 +15,7 @@
 |------|------|
 | `pdf_parser_desktop.py` | 桌面版主程序（Tkinter 界面） |
 | `pdf_parser_app.py` | Streamlit Web 版（备选） |
-| `build_spec.py` | 打包为 EXE 的脚本（推荐） |
+| `build_spec.py` | 打包为 EXE 的脚本 |
 | `使用说明.md` | 详细操作手册 |
 | `README.md` | 本文件 |
 
